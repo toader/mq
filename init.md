@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.sqhtech -DartifactId=mqdemo -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
